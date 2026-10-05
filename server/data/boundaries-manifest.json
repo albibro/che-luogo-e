@@ -1,0 +1,52 @@
+{
+  "sourceId": "istat-boundaries",
+  "referenceDate": "2026-01-01",
+  "retrievedAt": "2026-10-04T21:08:50.404099+00:00",
+  "sourceUpdatedAt": "2026-03-02",
+  "originalUrl": "https://www.istat.it/storage/cartografia/confini_amministrativi/generalizzati/2026/Limiti01012026_g.zip",
+  "originalSha256": "b011a590656c3a3ebc297fba80726a376aa843b6f164641cf6a4a990021a81d6",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "methodVersion": "istat-boundaries-web-v1",
+  "sourceCrs": "EPSG:32632",
+  "outputCrs": "EPSG:4326",
+  "simplification": "Nessuna ulteriore semplificazione: versione generalizzata ISTAT originale, riproiettata.",
+  "sourceCount": 7896,
+  "matchedCount": 7889,
+  "rosterCount": 7894,
+  "missingCodes": [
+    "024129",
+    "072037",
+    "072040",
+    "081019",
+    "087009"
+  ],
+  "unmatchedHistorical": [
+    {
+      "code": "018082",
+      "name": "Lirio"
+    },
+    {
+      "code": "024027",
+      "name": "Castegnero"
+    },
+    {
+      "code": "024071",
+      "name": "Nanto"
+    }
+  ],
+  "invalidCodes": [
+    "072037",
+    "072040",
+    "081019",
+    "087009"
+  ],
+  "nameChanges": [
+    "008063"
+  ],
+  "warning": "Confini a fini statistici al 1 gennaio 2026. Non catastali. Possibili variazioni successive; corrispondenza di codice non garantisce territorio invariato.",
+  "reliability": {
+    "level": "medium",
+    "reason": "Fonte ufficiale per la geografia statistica storica; scala non certificabile uniformemente. Non adatta a verifiche immobiliari puntuali."
+  }
+}
