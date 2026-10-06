@@ -1,9 +1,0 @@
-{
-  "originalUrl": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M,T2M_MAX,PRECTOTCORR&community=AG&longitude=9.375&latitude=45.5&start=20250101&end=20251231&format=JSON",
-  "retrievedAt": "2026-10-05T08:26:43.124224+00:00",
-  "checksum": "8f2fa2e38b0f964d0a71bb004773f62c3b572c55e71107852eba63277879a501",
-  "cell": [
-    9.375,
-    45.5
-  ]
-}
