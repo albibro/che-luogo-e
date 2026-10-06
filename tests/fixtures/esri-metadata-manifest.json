@@ -1,6 +1,0 @@
-{
-  "originalUrl": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?f=pjson",
-  "retrievedAt": "2026-10-05T12:47:29.955299+00:00",
-  "sha256": "3c41ca79d7ddc2267fa1ac60c43263acbfed04915e3b2433e6b8e5d30378e2dc",
-  "usage": "Real metadata for parser tests only; not imagery nor an operational anonymous provider."
-}

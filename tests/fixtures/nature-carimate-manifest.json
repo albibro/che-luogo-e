@@ -1,5 +1,0 @@
-{
-  "url": "https://api.gbif.org/v1/occurrence/search?country=IT&decimalLatitude=45.688505014390955%2C45.72630844019422&decimalLongitude=9.095939177694078%2C9.124161622162744&year=2015%2C2025&license=CC0_1_0&occurrenceStatus=PRESENT&hasCoordinate=true&hasGeospatialIssue=false&limit=0",
-  "checksum": "4d218eb3bc533a631c9aa717467b3832256d78a61001eccfcf369feb54d77c46",
-  "retrievedAt": "2026-10-05T17:17:02.802Z"
-}
